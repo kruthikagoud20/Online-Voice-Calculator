@@ -1,0 +1,3 @@
+SpeechRecognition
+Pyttsx3
+Pyaudio
